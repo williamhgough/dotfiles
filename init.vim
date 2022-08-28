@@ -1,0 +1,1 @@
+/Users/whkg/.config/nvim/init.vim
